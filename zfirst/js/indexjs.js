@@ -303,7 +303,7 @@ function settimes() {
 
     var today2 = new Date();
     var event1 = "New Day"
-    var cdtime = "10/1/2018";
+    var cdtime = "10/19/2019";
     var festive = new Date(cdtime);
     festive1 = parseInt((festive - today2) / spd);
     festive2 = parseInt((festive - today2) / spd * 24) - parseInt(festive1 * 24);
