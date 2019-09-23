@@ -1,4 +1,4 @@
-<p>1 新建文件夹：新建文档→newfold/test.txt</p>
+<p>1 新建文件夹：“create new file”→newfolder/test.txt</p>
 <p>2 上传you2后，发现在在https://wwuhn.github.io
   的链接内不能访问
   https://wwuhn.github.io/you2/index.html
