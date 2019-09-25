@@ -1,3 +1,9 @@
+<p>GgrimTales+EtimeEnglish+25/myjs+21/网页之他山之石</p>
+<p>一些JS没有，一些novel没有</p>
+<p>部分是GB2312</p>
+
+
+
 <p>1 新建文件夹：“create new file”→newfolder/test.txt</p>
 <p>2 上传you2后，发现在在https://wwuhn.github.io
   的链接内不能访问
